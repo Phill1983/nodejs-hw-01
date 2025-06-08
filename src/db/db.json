@@ -1,0 +1,30 @@
+[
+  {
+    "id": "3670cc66-add6-4634-abb7-e6c980cdc20a",
+    "name": "Jeff Mayer",
+    "phone": "209.939.3228",
+    "email": "Elvie22@hotmail.com",
+    "job": "National Metrics Developer"
+  },
+  {
+    "id": "aab3e402-f6db-4c8e-bb75-25a24fe1062b",
+    "name": "Blanca Cremin",
+    "phone": "(445) 631-2131 x740",
+    "email": "Alia.Smith@gmail.com",
+    "job": "Lead Metrics Architect"
+  },
+  {
+    "id": "cddb95fc-5fe0-40d3-a8bb-48e3940335c7",
+    "name": "Jimmie Rodriguez",
+    "phone": "(332) 834-6017 x140",
+    "email": "Janie_Altenwerth49@yahoo.com",
+    "job": "Legacy Implementation Orchestrator"
+  },
+  {
+    "id": "bb71ac87-cfa9-429a-8537-2244c5446cc0",
+    "name": "Gilberto Crist",
+    "phone": "(626) 394-2966 x76239",
+    "email": "Caesar.Pagac4@yahoo.com",
+    "job": "Global Implementation Executive"
+  }
+]
